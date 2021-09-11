@@ -23,11 +23,11 @@ Il mio felino si chiama Denise ed è molto dolce ma solo quando vuole ... :smirk
 
 ![cat](https://developer.ridgerun.com/wiki/images/8/80/Egyptian_cat.jpg)
 
-Quando vuole le coccole fa le fusa.
+Quando desidera le coccole si fa sentire con le fusa.
 
 
 ### Il pappagallo
-E' il più esigente, mangia solo quello che gli piace:
+Forse, è il più esigente, mangia solo quello che gli piace:
 
 Cibo | Livello di Gradimento
 ------------ | -------------
@@ -43,11 +43,10 @@ I miei interessi principali sono
 - [x] il calcio
 - [x] la fotografia
 - [x] la formula 1 
-- [ ] this is an incomplete item
+- [ ] forse, in futuro ne avrò altri
 
 
-
-Infine mi :heart: molto [programmare](Programming.md), 
+Infine :heart: molto [programmare](Programming.md), 
 
 ---
 

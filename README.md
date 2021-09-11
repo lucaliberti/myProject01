@@ -2,26 +2,28 @@
 ## I miai amici animali
 Benvenuti nel **mio progetto** :relaxed:
 
-nel quale vi descriverò i miei tre animali e precisamente
+nel quale vi descriverò i miei tre animali, precisamente
 
 * un cane 
 * un gatto
 * un pappagallo
 
 ### Il cane
-Perchè un cane? Sapete cosa si dice del cane ...
+Perchè un cane? Sapete cosa si dice cane ...
 > il cane è il migliore amoio dell'uomo
+
 nella mia casa non poteva dunque mancare.
 
 ![dog](dog-640a.jpg)
 
-Si chiama **Jack**.
+Si chiama **Jack** ed è un inguaribile giocherellone.
 
 ### Il Gatto
 Il mio felino si chiama Denise ed è molto dolce ma solo quando vuole ... :smirk:
 
+![cat](https://developer.ridgerun.com/wiki/images/8/80/Egyptian_cat.jpg)
 
-Quando vuole le coccole fa le fusa
+Quando vuole le coccole fa le fusa.
 
 
 ### Il pappagallo
@@ -33,21 +35,19 @@ Semi di girasole | li adora
 Semi di zucca | ne è ghiotto
 Semi di lino | sono troppo piccoli, se può li evita
 
-![cat](https://developer.ridgerun.com/wiki/images/8/80/Egyptian_cat.jpg)
 
 
 ### I miei hobby
-Mi piace programmare. Indovina cosa fa questo programma?
+I miei interessi principali sono
 
-```javascript  
-  console.log('Hello World');
-```
-
-Altri interessi
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
+- [x] il calcio
+- [x] la fotografia
+- [x] la formula 1 
 - [ ] this is an incomplete item
+
+
+
+Infine mi :heart: molto [programmare](Programming.md), 
 
 ---
 

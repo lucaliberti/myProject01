@@ -48,7 +48,7 @@ I miei interessi principali sono
 
 Infine :heart: molto [programmare](Programming.md)
 
-Ciao torna a visitarmi cliccando qui https://github.com/lucaliberti/myProject01/main/README.md
+Ciao torna a visitarmi cliccando qui https://github.com/lucaliberti/myProject01/blob/main/README.md
 
 ---
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)

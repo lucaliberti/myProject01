@@ -11,6 +11,6 @@ Lo scopo del mio progetto è descrivervi i miei tre animali, presisemente:
 <ol> ciao
   <li> primo
   <li> secondo
-<ol>
+</ol>
   
-<img src="https://en.wikipedia.org/wiki/File:VAN_CAT.png" alt="drawing" width="200"/>
+<img src="https://developer.ridgerun.com/wiki/images/8/80/Egyptian_cat.jpg" alt="drawing" width="200"/>

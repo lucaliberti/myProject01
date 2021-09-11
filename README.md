@@ -49,7 +49,7 @@ I miei interessi principali sono
 Infine :heart: molto [programmare](Programming.md), 
 
 ---
-numero di   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)
 ---
 
 <ol> ciao

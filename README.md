@@ -8,5 +8,9 @@ Lo scopo del mio progetto è descrivervi i miei tre animali, presisemente:
 * un gatto
 * un pappagallo
 
-
-
+<ol> ciao
+  <li> primo
+  <li> secondo
+<ol>
+  
+<img src="https://en.wikipedia.org/wiki/File:VAN_CAT.png" alt="drawing" width="200"/>

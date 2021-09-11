@@ -37,11 +37,18 @@ Semi di lino | sono troppo piccoli, se può li evita
 
 
 ### I miei hobby
-Mi piace programmare. Indovina coa fa questo programma?
+Mi piace programmare. Indovina cosa fa questo programma?
 
 ```javascript  
   console.log('Hello World');
 ```
+
+Altri interessi
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 ---
 
 <ol> ciao

@@ -62,10 +62,6 @@ Questo docimento è stato realizzato utilizzando
   1. [freegifmaker](http://freegifmaker.me/images/2hDhA)
   1. [.diagrams.net](https://app.diagrams.net)
 
-  
-
-
-http://freegifmaker.me/images/2hDhA/
 
 ---
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)

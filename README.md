@@ -12,7 +12,7 @@ nel quale vi descriverò i miei tre animali, precisamente
 
 ### Il cane
 Perchè un cane? Sapete cosa si dice cane ...
-> il cane è il migliore dell'uomo dell'uomo
+> il cane è il migliore amico dell'uomo
 
 nella mia casa non poteva dunque mancare.
 
@@ -52,7 +52,7 @@ Infine :heart: molto [programmare](Programming.md)
 
 Ritorna a feami visita cliccando qui https://github.com/lucaliberti/myProject01/blob/main/README.md
 
-![ciao](Ciao.gif)
+![ciao](imgs/Ciao.gif)
 
 ---
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)

@@ -54,6 +54,19 @@ Ritorna a farmi visita cliccando qui https://github.com/lucaliberti/myProject01/
 
 ![ciao](imgs/Ciao.gif)
 
+### Riferimenti
+Questo docimento è stato realizzato utilizzando
+  1. [mastering-markdown](https://guides.github.com/features/mastering-markdown)
+  1. [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+  1. [shield.io](https://shields.io/category/other)
+  1. [freegifmaker](http://freegifmaker.me/images/2hDhA)
+  1. [.diagrams.net](https://app.diagrams.net)
+
+  
+
+
+http://freegifmaker.me/images/2hDhA/
+
 ---
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lucaliberti/myProject01)
 ---

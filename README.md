@@ -12,7 +12,7 @@ nel quale vi descriverò i miei tre animali, precisamente
 
 ### Il cane
 Perchè un cane? Sapete cosa si dice cane ...
-> il cane è il migliore amoio dell'uomo
+> il cane è il migliore dell'uomo dell'uomo
 
 nella mia casa non poteva dunque mancare.
 

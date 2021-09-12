@@ -16,7 +16,7 @@ Perchè un cane? Sapete cosa si dice cane ...
 
 nella mia casa non poteva dunque mancare.
 
-![dog](dog-640a.jpg)
+![dog](imgs/dog-640a.jpg)
 
 Si chiama **Jack** ed è un inguaribile giocherellone.
 

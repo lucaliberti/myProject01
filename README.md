@@ -50,7 +50,7 @@ I miei interessi principali sono
 
 Infine :heart: molto [programmare](Programming.md)
 
-Ciao torna a visitarmi cliccando qui https://github.com/lucaliberti/myProject01/blob/main/README.md
+Ritorna a feami visita cliccando qui https://github.com/lucaliberti/myProject01/blob/main/README.md
 
 ![ciao](Ciao.gif)
 

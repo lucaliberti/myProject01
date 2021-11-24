@@ -10,6 +10,8 @@ nel quale vi descriverò i miei tre animali, precisamente
 * un gatto
 * un pappagallo
 
+
+
 ### Il cane
 Perchè un cane? Sapete cosa si dice ...
 > il cane è il migliore amico dell'uomo

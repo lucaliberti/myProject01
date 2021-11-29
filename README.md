@@ -1,6 +1,4 @@
 
-
-
 # myProject01
 ## I miai amici animali
 Benvenuti nel **mio progetto** :relaxed:
@@ -10,7 +8,6 @@ nel quale vi descriverò i miei tre animali, precisamente
 * un cane 
 * un gatto
 * un pappagallo
-
 
 
 ### Il cane

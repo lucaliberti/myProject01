@@ -1,6 +1,6 @@
 
 # myProject01
-## I miai amici animali
+## I miei amici animali
 Benvenuti nel **mio progetto** :relaxed:
 
 nel quale vi descriverò i miei tre animali, precisamente
